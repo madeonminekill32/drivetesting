@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="3px" viewBox="0 0 720 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>horizontal-rule-red-1-px-thick</title>
+    <g id="horizontal-rule-red-1-px-thick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <line x1="0.5" y1="1.5" x2="719.5" y2="1.5" id="line" stroke="#EA4335"></line>
+    </g>
+</svg>
